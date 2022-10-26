@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-# Portfolio: setup and mobile version skeleton
+# Portfolio: First project skeleton design
 
-For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
+This repository is a testing project and for this repository, I've added HTML and CSS file based on figma skeleton. The project is tested via linters and it's mobile first design which is compatible with mobile view.
 
 ![home_page](https://github.com/habasm/HabAsmportofilio/blob/89e97ca2170403b1f23f99dfe54f34369f896cf9/images/mobileView.png)
 
