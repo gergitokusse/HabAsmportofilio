@@ -6,6 +6,11 @@ For this repository, I've created html templates and styling files in order to b
 
 ![home_page](https://github.com/habasm/HabAsmportofilio/blob/89e97ca2170403b1f23f99dfe54f34369f896cf9/images/mobileView.png)
 
+![Working Areas](https://github.com/habasm/HabAsmportofilio/blob/70a20091c70e917877947a5f4805e43073c9a6e2/images/work-1.png)
+
+![Working Areas](https://github.com/habasm/HabAsmportofilio/blob/70a20091c70e917877947a5f4805e43073c9a6e2/images/work%204.png)
+
+
 ## Built With 🔨
 
 - HTML
